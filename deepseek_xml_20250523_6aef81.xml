@@ -1,0 +1,16 @@
+<project>
+    <dependencies>
+        <!-- Apache POI для PowerPoint -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>5.2.3</version>
+        </dependency>
+        <!-- Для работы с графиками -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml-full</artifactId>
+            <version>5.2.3</version>
+        </dependency>
+    </dependencies>
+</project>
